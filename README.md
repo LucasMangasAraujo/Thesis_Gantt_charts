@@ -2,7 +2,7 @@
 
 
 ## Table of contents
--[Description](#Description)
+- [Description](#Description)
 ## Description
 This repository contains a set of Python codes designed to generate Gantt charts typically used in theses or qualification reports. The main features include
 * **Flexibility**: Generate new charts whenever the tasks excel file is updated.
