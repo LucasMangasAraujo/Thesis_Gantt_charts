@@ -1,0 +1,10 @@
+$Name (and full path if needed) of the excel file
+Tasks.xlsx
+$Chart title and size
+Thesis Completion, 50
+$Font type, size
+serif, 20, black
+$Color bar colouring and title location ( "right" | "top" | "bottom" )
+Viridis, bottom
+$Name for the chart
+Gantt_chart.html
