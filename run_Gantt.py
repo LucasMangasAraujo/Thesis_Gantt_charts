@@ -25,11 +25,6 @@ def main():
     print(df)
     
     
-    # Customised settings deefined by the user
-    title_name, title_size = 'Thesis completion', 42;
-    font, font_size = "serif", 20;
-    
-    
     # generate the chart
     arguments = (df, title_name , title_size, font, font_size, font_color, 
                  colorbar_colouring, colobar_title_position, chart_name)
